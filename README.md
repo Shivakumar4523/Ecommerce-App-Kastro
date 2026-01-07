@@ -1,4 +1,4 @@
-# 🚀 E-Commerce Application Deployment (DevOps Project)
+# 🚀 E-Commerce Application Deployment (DevSecOps Project)
 
 Welcome to this repository!  
 Here you will learn the **end-to-end deployment of an E-Commerce Application** using DevOps tools and practices.
@@ -6,7 +6,7 @@ Here you will learn the **end-to-end deployment of an E-Commerce Application** u
 ---
 
 ## 📺 Watch the Full Deployment Tutorial
-[![Watch Now](https://img.shields.io/badge/Watch_on-YouTube-red?logo=youtube&logoColor=white)]([https://youtu.be/l-5JQcI_CH0])
+[![Watch Now](https://img.shields.io/badge/Watch_on-YouTube-red?logo=youtube&logoColor=white)]([https://youtu.be/l-5JQcI_CH0?si=idBUNiwJNfTzwuoV])
 
 ---
 
